@@ -8,7 +8,7 @@
 - :school: I am an `Android Developer` at Selela Inforamtion Technology
 - :technologist: I am using `Kotlin` as primary language
 - :student: I’m currently learning: `Jetpack Compose`.
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `learn new things`
 
 <br>
 
