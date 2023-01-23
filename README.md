@@ -5,7 +5,7 @@
 
 
 ## :sassy_woman:  About me
-- :school: I am an `Android Developer` at Selela Inforamtion Technology
+- :school: I am an `Android Developer` at Selela Information Technology
 - :technologist: I am using `Kotlin` as primary language
 - :student: I’m currently learning: `Jetpack Compose`.
 - :nerd_face: Always `learn new things`
